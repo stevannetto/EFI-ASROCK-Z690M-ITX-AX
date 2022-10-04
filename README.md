@@ -16,3 +16,14 @@ EFI Setup for the 12th gen Intel Alder Lake in a ASRock Z690M-ITX/ax DDR4 mother
 
 - macOS Monterey 12.x
 
+
+### BIOS
+
+- Advanced -> CPU Configuration -> CFG Lock -> Disabled
+- Advanced -> Chipset Configuration -> Above 4G Decoding -> Disabled
+- Advanced -> Chipset Configuration -> C.A.M. (Clever Access Memory) -> Disabled
+- Security -> Secure Boot -> Secure Boot -> Disabled
+
+### OpenCore version:
+OpenCore: 0.8.3 Release
+
