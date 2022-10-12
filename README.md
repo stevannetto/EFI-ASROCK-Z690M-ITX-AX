@@ -31,5 +31,5 @@ OpenCore: 0.8.3 Release
 
 ### Notes:
 
-- For CPU supportin E-cores you might edit the SSDTs in config.plist.
+- For CPU supporting E-cores you might want to enable/disable thr SSDT sections in config.plist.
 - Both the integrated Intel AX wifi or Fenvi Broadcom cards should work fine. 
