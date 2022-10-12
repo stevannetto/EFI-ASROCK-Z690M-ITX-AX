@@ -2,7 +2,7 @@
 EFI Setup for the 12th gen Intel Alder Lake in a ASRock Z690M-ITX/ax DDR4 motherboard.
 
 
-### Hardware
+### Hardware tested
 
 - ASRock Z690M-ITX/ax DDR4 motherboard.
 - 12th gen Core i5 12400.
