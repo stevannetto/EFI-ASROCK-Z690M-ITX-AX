@@ -25,5 +25,11 @@ EFI Setup for the 12th gen Intel Alder Lake in a ASRock Z690M-ITX/ax DDR4 mother
 - Security -> Secure Boot -> Secure Boot -> Disabled
 
 ### OpenCore version:
+
 OpenCore: 0.8.3 Release
 
+
+### Notes:
+
+- For CPU supportin E-cores you might edit the SSDTs in config.plist.
+- Both the integrated Intel AX wifi or Fenvi Broadcom cards should work fine. 
