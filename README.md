@@ -22,6 +22,7 @@ EFI Setup for the 12th gen Intel Alder Lake in a ASRock Z690M-ITX/ax DDR4 mother
 - Advanced -> CPU Configuration -> CFG Lock -> Disabled
 - Advanced -> Chipset Configuration -> Above 4G Decoding -> Disabled
 - Advanced -> Chipset Configuration -> C.A.M. (Clever Access Memory) -> Disabled
+- Advanced -> Chipset Configuration -> IGPU Multi Monitor -> Disabled
 - Security -> Secure Boot -> Secure Boot -> Disabled
 
 ### OpenCore version:
