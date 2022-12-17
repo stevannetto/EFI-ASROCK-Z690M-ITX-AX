@@ -33,4 +33,5 @@ OpenCore: 0.8.3 Release
 ### Notes:
 
 - For CPU supporting E-cores you might want to tweak the SSDT sections in config.plist.
-- Both the integrated Intel AX wifi or Fenvi Broadcom cards should work with this EFI without modifications. 
+- Both the integrated Intel AX wifi or Fenvi Broadcom cards should work with this EFI without modifications. If not using the Intel wifi / bluetooth card, you might want to disable the following Kexts: AirportItlwm, IntelBTPatcher, IntelBluetoothFirmware, BlueToolFixup.
+ 
