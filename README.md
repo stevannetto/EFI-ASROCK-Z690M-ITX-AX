@@ -15,6 +15,7 @@ OpenCore EFI directory for the ASRock Z690M-ITX/ax motherboard.
 ### OS Version Tested
 
 - macOS Monterey 12.x
+- macOS Ventura is currently broken with this EFI. Will crash after a few seconds/minutes after login.
 
 
 ### BIOS
