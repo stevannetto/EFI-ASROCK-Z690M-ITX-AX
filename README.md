@@ -26,10 +26,6 @@ OpenCore EFI directory for the ASRock Z690M-ITX/ax motherboard.
 - Advanced -> Chipset Configuration -> IGPU Multi Monitor -> Disabled
 - Security -> Secure Boot -> Secure Boot -> Disabled
 
-### OpenCore version:
-
-OpenCore: 0.8.3 Release
-
 
 ### Notes:
 - You'll have to set your own SMBIOS in config.plist.
