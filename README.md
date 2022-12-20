@@ -28,7 +28,7 @@ OpenCore EFI directory for the ASRock Z690M-ITX/ax motherboard.
 
 
 ### Notes:
-- You'll have to set your own SMBIOS in config.plist.
+- Set your own SMBIOS in config.plist.
 - For CPU supporting E-cores you might want to tweak the SSDT sections in config.plist.
-- If using using Broadcom wifi, disable the following Kexts in your config.plist: AirportItlwm, IntelBTPatcher, IntelBluetoothFirmware, BlueToolFixup.
+- If using Broadcom wifi, disable or remove the following Kexts in your config.plist: AirportItlwm, IntelBTPatcher, IntelBluetoothFirmware, BlueToolFixup.
 - If using Intel wifi, I'd highly recomment to stay with Monterey for now.
