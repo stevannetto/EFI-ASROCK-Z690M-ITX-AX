@@ -15,7 +15,7 @@ OpenCore EFI directory for the ASRock Z690M-ITX/ax motherboard.
 ### OS Version Tested
 
 - macOS Monterey 12.x
-- macOS Ventura (Intel wifi Kexts must be updated)
+- macOS Ventura 13.1 (Intel wifi Kexts must be updated)
 
 
 ### BIOS
