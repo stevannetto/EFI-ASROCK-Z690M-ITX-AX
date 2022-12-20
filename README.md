@@ -9,7 +9,7 @@ OpenCore EFI directory for the ASRock Z690M-ITX/ax motherboard.
 - 16GB x 2 3600 DDR4.
 - Sapphire Pulse Radeon RX6600.
 - WD SN570 1TB NVME SSD.
-- 2TB SATA HDD.
+- 2TB SATA HDD as supplementary storage.
 
 
 ### OS Version Tested
