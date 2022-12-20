@@ -15,7 +15,7 @@ OpenCore EFI directory for the ASRock Z690M-ITX/ax motherboard.
 ### OS Version Tested
 
 - macOS Monterey 12.x
-- macOS Ventura is currently broken with this EFI. Will crash after a few seconds/minutes after login.
+- macOS Ventura (Intel wifi Kexts must be updated)
 
 
 ### BIOS
@@ -32,7 +32,7 @@ OpenCore: 0.8.3 Release
 
 
 ### Notes:
-
+- You'll have to sey your own SMBIOS in config.plist.
 - For CPU supporting E-cores you might want to tweak the SSDT sections in config.plist.
 - Both the integrated Intel AX wifi or Fenvi Broadcom cards should work with this EFI without modifications. If not using the Intel wifi / bluetooth card, you might want to disable the following Kexts: AirportItlwm, IntelBTPatcher, IntelBluetoothFirmware, BlueToolFixup.
  
