@@ -1,6 +1,6 @@
 # ASROCK Z690M ITX/AX OpenCore EFI
-OpenCore EFI for the ASRock Z690M-ITX/ax motherboard.
-
+OpenCore EFI for the ASRock Z690M-ITX/ax motherboard.<br/>
+Current version: 0.9.7
 ## Overview
 
 ### Hardware tested
