@@ -27,7 +27,7 @@ OpenCore EFI for the ASRock Z690M-ITX/ax motherboard.
 - Dual or Triple boot with Windows and Linux
 
 ### Not working
-- Humanity making pretend efforts to control climate change. I'm serious.
+- Humanity making pretend efforts to reverse climate change. I'm serious.
 
 ## Instrunctions
 ### BIOS
