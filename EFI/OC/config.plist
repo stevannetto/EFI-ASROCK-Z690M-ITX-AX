@@ -2,6 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>Description</key>
+	<string>ASRock Z690M-ITX/ax with Radeon RX6600</string>
+	<key>Source</key>
+	<string>github.com/stevannetto/EFI-ASROCK-Z690M-ITX-AX</string>
+	<key>Version</key>
+	<string>OpenCore 0.9.7</string>
 	<key>ACPI</key>
 	<dict>
 		<key>Add</key>
